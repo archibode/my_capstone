@@ -36,7 +36,7 @@ body{
 }
 
 header {
-  background: url(asset/backgroundimage5green.jpeg);
+  background: url(backgroundimage5green.jpeg);
   background-size: cover;
   background-position:center;
   background-repeat: no-repeat;
@@ -624,7 +624,7 @@ strong.name{
 
   .skills-title {
     /* background-color: olivedrab; */
-    background: url(asset/backgroundimage5green.jpeg);
+    background: url(backgroundimage5green.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1046,7 +1046,7 @@ strong.name{
 } */
 
 footer {
-    background: url(asset/backgroundimage5green.jpeg);
+    background: url(backgroundimage5green.jpeg);
     background-position: centre;
     background-repeat: no-repeat;
     background-size: cover;
